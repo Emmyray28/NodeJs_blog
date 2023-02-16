@@ -1,0 +1,4 @@
+get all the blog  -  get
+add the blog  -   post
+delete the blog - delete
+update the blog - patch
